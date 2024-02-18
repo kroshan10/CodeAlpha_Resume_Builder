@@ -1,1 +1,1 @@
-hey!!
+const n = Math.random();
